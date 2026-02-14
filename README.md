@@ -22,7 +22,7 @@ The project evaluates algorithms based on their convergence speed (Linear vs. Qu
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/BeratKayar/root-finding-analysis.git
+    git clone https://github.com/BeratKayar/Numerical-Methods-Benchmarking.git
     ```
 2.  Open **MATLAB**.
 3.  Navigate to the project folder.
