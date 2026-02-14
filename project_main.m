@@ -1,7 +1,7 @@
 % =========================================================================
 %  COMPARATIVE ANALYSIS OF ROOT FINDING
 % =========================================================================
-%  Authors      : Kayar Berat
+%  Author       : Kayar Berat
 %  Date         : 2025
 %  Subject      : Root Finding Algorithms & Convergence Analysis
 % -------------------------------------------------------------------------
