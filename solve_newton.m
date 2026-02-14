@@ -13,7 +13,7 @@ function [root, iter, err_history] = solve_newton(f, df, x0, tol, max_iter)
 %   iter        - Number of iterations performed
 %   err_history - Saves errors
 %
-% Author: Kismet Yusuf
+% Author: Kayar Berat
 
     % Input Validation (Using 'error')
     if max_iter <= 0
