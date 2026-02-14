@@ -12,7 +12,7 @@ function [root, iter, err_history] = solve_secant(f, x0, x1, tol, max_iter)
 %   iter        - Number of iterations
 %   err_history - Saves errors
 %
-% Authors: Kayar Berat, Kismet Yusuf
+% Author: Kayar Berat
 
     iter = 0;
     err_history = [];
