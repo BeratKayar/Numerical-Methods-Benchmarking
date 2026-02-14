@@ -1,0 +1,11 @@
+# Software Requirements
+MATLAB (R2021a or later recommended)
+
+# Required Files
+- project_main.m      # Main execution and plotting script
+- solve_newton.m      # Newton-Raphson implementation
+- solve_secant.m      # Secant method implementation
+- solve_bisection.m   # Bisection method implementation
+
+# Toolboxes
+- None (Uses base MATLAB functionality)
