@@ -4,7 +4,7 @@ This repository contains a MATLAB-based benchmarking suite that compares three f
 
 ## 📌 Project Overview
 
-The project evaluates algorithms based on their convergence speed (Linear vs. Quadratic) and computational efficiency. It features a target function $f(x) = e^{-x} - \sin(x)$ and analyzes how quickly each method approaches the root.
+The project evaluates algorithms based on their convergence speed (Linear vs. Quadratic) and computational efficiency. It features a target function f(x) = e^{-x} - \sin(x) and analyzes how quickly each method approaches the root.
 
 ### Included Algorithms
 * **Newton-Raphson Method:** Utilizes a numerical derivative (Finite Difference) to achieve quadratic convergence.
@@ -22,7 +22,7 @@ The project evaluates algorithms based on their convergence speed (Linear vs. Qu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/BeratKayar/root-finding-analysis.git](https://github.com/yourusername/root-finding-analysis.git)
+    git clone https://github.com/BeratKayar/root-finding-analysis.git
     ```
 2.  Open **MATLAB**.
 3.  Navigate to the project folder.
